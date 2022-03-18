@@ -1,0 +1,33 @@
+{
+    "products":[{
+      "title": "Gerek",
+      "description": "Human Resources"
+    }, {
+      "title": "Consolata",
+      "description": "Legal"
+    }, {
+      "title": "Sampson",
+      "description": "Legal"
+    }, {
+      "title": "Hughie",
+      "description": "Accounting"
+    }, {
+      "title": "Dolli",
+      "description": "Training"
+    }, {
+      "title": "Shanan",
+      "description": "Product Management"
+    }, {
+      "title": "Dietrich",
+      "description": "Marketing"
+    }, {
+      "title": "Noelle",
+      "description": "Research and Development"
+    }, {
+      "title": "Meg",
+      "description": "Services"
+    }, {
+      "title": "Adelheid",
+      "description": "Training"
+    }]
+}
